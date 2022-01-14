@@ -19,6 +19,14 @@
 			"problemMatcher": [],
 			"group": "none",
 			"detail": ""
+		},
+		{
+			"label": "[RUN] MS ZUUL",
+			"type": "shell",
+			"command": "cd microservicios-zuul/ && ./mvnw spring-boot:run",
+			"problemMatcher": [],
+			"group": "none",
+			"detail": ""
 		}
 		// {
 		// 	"label": "[RUN] Spring Boot Application",
